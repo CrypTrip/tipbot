@@ -1,5 +1,5 @@
 #!/bin/sh
-':' //; exec "$(command -v nodejs || command -v node)" "$0" "$@"
+':' //; exec "$(command -v node || command -v node)" "$0" "$@"
 
 'use strict';
 const wallet = require('./_scripts/qrl/walletTools');
