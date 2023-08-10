@@ -12,7 +12,7 @@
 # places backup tar file in $HOME/qrl-tips/_scripts/backup/qrl-tipbotBackup/
 
 # get latest files into dir 
-/usr/bin/nodejs "$HOME/qrl-tipbot/_scripts/backup/backup.js"
+/usr/bin/node "$HOME/qrl-tipbot/_scripts/backup/backup.js"
 # location defined in config file
 FileLocation=`< "$HOME/qrl-tipbot/_config/config.json" jq -r .backup.location`
 cd $FileLocation
