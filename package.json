@@ -32,12 +32,12 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build_database": "nodejs ./_scripts/db/dbCreate.js",
-    "addTestData": "nodejs ./_scripts/db/addTestData.js",
-    "DiscordBot": "nodejs ./_scripts/discord/index.js",
-    "SpawnDiscordBot": "nodejs ./index.js",
-    "InitializeBot": "nodejs ./_scripts/initializeBot.js",
-    "unlockBotWallet": "nodejs ./_scripts/unlockBotWallet.js"
+    "build_database": "node ./_scripts/db/dbCreate.js",
+    "addTestData": "node ./_scripts/db/addTestData.js",
+    "DiscordBot": "node ./_scripts/discord/index.js",
+    "SpawnDiscordBot": "node ./index.js",
+    "InitializeBot": "node ./_scripts/initializeBot.js",
+    "unlockBotWallet": "node ./_scripts/unlockBotWallet.js"
   },
   "repository": {
     "type": "git",
