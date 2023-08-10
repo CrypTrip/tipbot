@@ -4,7 +4,7 @@
     "bot_id"  : "BOT_ID",
     "bot_url" : "https://BOT_URL.COM",
     "explorer_url" : "https://explorer.theqrl.org",
-    "bot_dir" : "/home/{$USER}/qrltips",
+    "bot_dir" : "~/tipbot/",
     "bot_donationAddress" : "Q010500e9ec3de4d403d59be6ff329134c6d6fab4f94ea40eaa443aff47ab76350519e94fe9326b",
     "ban_channel": "CHANNEL_NAME",
     "ban_channel_id": "793588953995411506"
@@ -27,8 +27,8 @@
   "discord" : {
     "token"  : "DISCORD_TOKEN_HERE",
     "bot_id"  : "BOT_ID",
-    "cmd_dir" : "/home/{$USER}/qrl-tips/_scripts/discord/cmd",
-    "admin_cmd_dir" : "/home/{$USER}/qrl-tips/_scripts/discord/admin-cmd",
+    "cmd_dir" : "~/tipbot/_scripts/discord/cmd",
+    "admin_cmd_dir" : "~/tipbot/_scripts/discord/admin-cmd",
     "prefix" : "+",
     "bot_admin" : "DISCORD_ID",
     "admin_role" : "ROLE",
@@ -57,8 +57,8 @@
     "walletFile" : "/home/$USER/.qrl/walletd.json",
     "walletdLog" : "/home/$USER/.qrl/walletd.log",
     "nodeConfig" : "/home/$USER/.qrl/config.yml",
-    "faucetLog" : "/home/$USER/qrl-tipbot/faucet.log",
-    "botLogFile" : "/home/$USER/qrl-tipbot/discord_bot.log",
-    "botConfigFile" : "/home/$USER/qrl-tipbot/_config/config.json"
+    "faucetLog" : "~/tipbot/faucet.log",
+    "botLogFile" : "~/tipbot/discord_bot.log",
+    "botConfigFile" : "~/tipbot/_config/config.json"
   }
 }
