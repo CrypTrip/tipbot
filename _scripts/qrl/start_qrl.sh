@@ -19,6 +19,6 @@ screen -Sdm qrl start_qrl
 # let the node get started and connect before we start the proxy
 sleep 5
 # start the qrl_walletd and proxy services
-cd "~/go/bin/"
+cd ~/go/bin
 qrl_walletd
 screen -Sdm walletd ./walletd-rest-proxy -serverIPPort 127.0.0.1:5359 -walletServiceEndpoint 127.0.0.1:19010
