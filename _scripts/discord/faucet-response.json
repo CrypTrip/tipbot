@@ -1,7 +1,7 @@
 [
 	{
 		"title": "Quantum Computers Can Reverse BTC Keys!",
-		"message": "A powerful quantum computer can reverse Bitcoin public keys into private keys from their public keys using Shor's algorithm",
+		"message": "A powerful quantum computer can reverse Bitcoin public keys into private keys using Shor's algorithm.",
 		"source": "https://arxiv.org/abs/quant-ph/0301141"
 	},
 	{
@@ -11,12 +11,12 @@
 	},
 	{
 		"title": "BTC Could Be Hacked In Transit.",
-		"message": "100% of BTC addresses can be hacked during transactions by deriving the private key from the public key which is broadcast to the network using a quantum computer.",
+		"message": "100% of BTC addresses can be hacked by a quantum computer during transactions by deriving the private key from the public key which is broadcast to the network.",
 		"source": "https://faqq.info/wiki/Its_going_to_affect_bitcoin"
 	},
 	{
 		"title": "\"But BTC Can Just Fork...\"",
-		"message": "Any Bitcoin soft-fork solution requires all users to actively participate in moving their funds to new qc-proof addresses, which may prove difficult for the Satoshi wallets.",
+		"message": "Any Bitcoin soft-fork solution requires all users to actively participate in moving their funds to new quantum resistant addresses, which may prove difficult for the Satoshi wallets.",
 		"source": "https://faqq.info/wiki/But_bitcoin_will_fork"
 	},
 	{
@@ -31,7 +31,7 @@
 	},
 	{
 		"title": "QRL is Quantum Resistant From Genesis!",
-		"message": "Did you know that QRL is quantum resistant from the first block? Using NIST approved XmSS cryptography from the beginning gives future security to the QRL blockchain",
+		"message": "Did you know that QRL is quantum resistant from the first block? Using NIST approved XMSS cryptography from the beginning gives future security to the QRL blockchain.",
 		"source": "https://github.com/theQRL/Whitepaper/blob/master/QRL_whitepaper.pdf"
 	},
 	{
@@ -40,8 +40,8 @@
 		"source": "https://docs.theqrl.org/wallet/create-tokens/"
 	},
 	{
-		"title": "QRL Uses e**X**tended **m**erkle **S**ignature **S**cheme.",
-		"message": "QRL is using a NIST recommended post-quantum secure algorithm [**XmSS**](https://tools.ietf.org/html/rfc8391) instead of the quantum *insecure* ECDSA algorithm most other blockchains rely on.",
+		"title": "QRL Uses e**X**tended **M**erkle **S**ignature **S**cheme.",
+		"message": "QRL is using a NIST recommended post-quantum secure algorithm [**XMSS**](https://tools.ietf.org/html/rfc8391) instead of the quantum *insecure* ECDSA algorithm most other blockchains rely on.",
 		"source": "https://csrc.nist.gov/publications/detail/sp/800-208/final"
 	},
 	{
@@ -56,7 +56,7 @@
 	},
 	{
 		"title": "What is the Quantum Resistant Ledger?",
-		"message": "The QRL is crypto's most forward-looking blockchain, secure today for tomorrow's advancements in Quantum Computing that will threaten the very foundation of Bitcoin, Ethereum, and other top projects",
+		"message": "The QRL is crypto's most forward-looking blockchain, secure today for tomorrow's advancements in Quantum Computing that will threaten the very foundation of Bitcoin, Ethereum, and other top projects.",
 		"source": "https://theqrl.org"
 	},
 	{
@@ -66,7 +66,7 @@
 	},
 	{
 		"title": "QRL and Keybase!",
-		"message": "Did you know that you can verify your QRL address on Keybase! Take a look at our [guide here](https://docs.theqrl.org/tools/keybase/) to connect your Keybase account with a QRL address",
+		"message": "Did you know that you can verify your QRL address on Keybase! Take a look at our [guide here](https://docs.theqrl.org/tools/keybase/) to connect your Keybase account with a QRL address.",
 		"source": "https://docs.theqrl.org/tools/keybase/"
 	},
 	{
@@ -86,7 +86,7 @@
 	},
 	{
 		"title": "QRL Hardware Wallet Support!",
-		"message": "One of the most secure ways to store cryptocurrencies is on a hardware wallet. The QRL has integrated with Ledger devices allowing up to 4 QRL addresses or XmSS trees to be stored on a single ledger device.",
+		"message": "One of the most secure ways to store cryptocurrencies is on a hardware wallet. The QRL has integrated with Ledger devices allowing up to 4 QRL addresses or XMSS trees to be stored on a single ledger device.",
 		"source": "https://docs.theqrl.org/wallet/ledger-nano-s/"
 	},
 	{
